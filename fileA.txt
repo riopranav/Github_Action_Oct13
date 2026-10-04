@@ -1,1 +1,2 @@
 Common starting line
+Line added by featureA
